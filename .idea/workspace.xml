@@ -54,12 +54,23 @@
       <workItem from="1652403399262" duration="1388000" />
       <workItem from="1652404887142" duration="1161000" />
       <workItem from="1652455274560" duration="302000" />
-      <workItem from="1652456487655" duration="1177000" />
+      <workItem from="1652456487655" duration="2475000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
