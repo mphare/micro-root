@@ -29,7 +29,8 @@
     </style>
   </head>
   <body>
-    <script>
+  <H1>Micro Frontends - App Federation</H1>Joy
+dream weaver    <script>
       System.import('single-spa').then(function (singleSpa) {
         singleSpa.registerApplication(
           'header',
@@ -37,10 +38,11 @@
             return System.import('header');
           },
           function (location) {
-            return location.pathname.startsWith('/header');
-            // return true;
+            // return location.pathname.startsWith('/header');
+            return true;
           }
         )
+    </script>
 
         singleSpa.registerApplication(
           'dashboard',
